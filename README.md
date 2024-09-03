@@ -34,5 +34,5 @@ This systematic approach allowed us to develop a robust predictive model and gai
 3. Run the analysis scripts to reproduce the results.
 
 ## Contact
-For any questions or feedback, please contact Jakub Buckanic at [LinkedIn](www.linkedin.com/in/jakub-buckanic-9757682b3).
+For any questions or feedback, please contact Jakub Buckanic at [LinkedIn](www.linkedin.com/in/jakub-buckanic-9757682b3) .
 

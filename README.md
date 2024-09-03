@@ -28,11 +28,7 @@ The Random Forest Classifier was identified as the best model based on our evalu
 ## Conclusion
 This systematic approach allowed us to develop a robust predictive model and gain valuable insights into the key indicators of heart disease.
 
-## How to Use
-1. Clone the repository.
-2. Navigate to the project directory.
-3. Run the analysis scripts to reproduce the results.
 
 ## Contact
-For any questions or feedback, please contact Jakub Buckanic at [LinkedIn](www.linkedin.com/in/jakub-buckanic-9757682b3)
+For any questions or feedback, please contact Jakub Buckanic at www.linkedin.com/in/jakub-buckanic-9757682b3
 
